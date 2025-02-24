@@ -9,3 +9,4 @@ Ciência da Computação - Felipe Couto - 823127403 - USJT - Vila Leopoldina
 ADS - Mateus felipe dos reis - 202411335 - 
 ADS - Paulo Maurício - 12624132758 - IBMR - Botafogo RJ
 Ciências da Computação - Lucas Reis - 202311999 - UNA - Uberlândia
+Ciências da Computação - Ernane Souza De Oliveira Júnior - 202312913 - UNA - Uberlândia
